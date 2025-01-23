@@ -11,7 +11,7 @@ They recently launched a feature where students/learners can come to their websi
 Your analysis will help Jamboree in understanding what factors are important in graduate admissions and how these factors are interrelated among themselves. It will also help predict one's chances of admission given the rest of the variables.
 
 **Dataset:**
-Dataset Link: jamboree_admission.csv
+Dataset Link: [jamboree_admission.csv](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/839/original/Jamboree_Admission.csv)
 
 
 **Column Profiling:**
